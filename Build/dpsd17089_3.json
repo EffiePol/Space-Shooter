@@ -1,0 +1,17 @@
+{
+"companyName": "Department of Product and Systems Design Engineering",
+"productName": "Space Shooter",
+"productVersion": "0.1",
+"dataUrl": "dpsd17089_3.data.unityweb",
+"wasmCodeUrl": "dpsd17089_3.wasm.code.unityweb",
+"wasmFrameworkUrl": "dpsd17089_3.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "dpsd17089_3.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.22f1"
+}
